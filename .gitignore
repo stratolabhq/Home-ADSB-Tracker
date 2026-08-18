@@ -1,0 +1,14 @@
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+
+# Anything with real credentials/IDs — never commit your real feeder IDs
+secrets.env
+*.local.sh
