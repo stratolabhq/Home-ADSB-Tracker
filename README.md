@@ -69,6 +69,12 @@ A couple of examples of what you'll see once everything's running. Identifying d
 
 ADS-B Exchange doesn't have a local status page — the only URL available (`adsbexchange-showurl`) is a public stats endpoint tied to your feeder UUID, not something worth screenshotting.
 
+Once you're feeding FlightRadar24, your receiver also gets used to filter/enhance what you see in their mobile app around your area:
+
+![FlightRadar24 mobile app](images/flightradar24_mobile_app.jpg)
+
+The FlightRadar24 mobile app, filtered to traffic near the receiver.
+
 ---
 
 ## 🚀 Setup guide
